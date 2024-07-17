@@ -6,8 +6,7 @@ This project conducts in-depth analysis to unveil key trends, performance metric
 <br/>
 **Key Insights :**<br/>
 <br/>
-<br/>
-* Laura Thompson has the highest leads of 749 with average deal value of $2734. Emily Johnson and John Smith have the highest average deal value of $2.92k.<br/>
+*Laura Thompson has the highest leads of 749 with average deal value of $2734. Emily Johnson and John Smith have the highest average deal value of $2.92k.<br/>
 <br/>
 * Among the countries Italy has 620 leads and a conversion rate of 12%. whereas Netherlands has the lowest number of leads 180 but high conversion rate of 15%.<br/>
 <br/>
